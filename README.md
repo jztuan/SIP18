@@ -1,2 +1,2 @@
 # SIP18
-ast-05 project using hdf5 files
+ast-05 project using hubble data
