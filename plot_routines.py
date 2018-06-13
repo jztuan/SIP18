@@ -22,9 +22,9 @@ ptcolor = 'gray'
 nticks=5
 
 ## font and tick label settings
-# rc('text', usetex=False)
-# rc('font',family='Arial')
-# rc('font',size=14)
+plt.rc('text', usetex=False)
+plt.rc('font',family='Arial')
+plt.rc('font',size=14)
 
 plt.rcParams['xtick.major.size']=4
 plt.rcParams['xtick.major.width']=1
